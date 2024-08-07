@@ -7,13 +7,12 @@
   - [Links](#links)
   - [Screenshot](#screenshot)
 - [Built With](#built-with)
-- [Author](#author)
 
 ## Overview
 
 ### Links
 
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site]( https://yasseresam.github.io/Single-price-grid-component----FrontEnd-Mentor/)
 
 ### Screenshot
 
